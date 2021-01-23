@@ -1,0 +1,18 @@
+Creating sendgrid:starter on ⬢ val320-photoapp... free
+Created sendgrid-slippery-37905 as SENDGRID_PASSWORD, SENDGRID_USERNAME
+Use heroku addons:docs sendgrid to view documentation
+
+app198817440@heroku.com
+
+ktxr9gyk2310
+
+heroku API:
+
+38f7c465-3b81-4320-bfc1-3e250182ac33
+
+
+API key:
+
+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
+
+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
